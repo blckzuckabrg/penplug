@@ -1,3 +1,9 @@
+# Penplug
+
+This is the penplug application for image and audio uploads
+
+by [Aaron Butler]
+
 == README
 
 This README would normally document whatever steps are necessary to get the
